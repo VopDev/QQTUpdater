@@ -12,15 +12,13 @@ A lightweight Windows GUI tool that keeps your QQT scripts up to date straight f
 > • Supports **collection packs** (e.g. War-Pig-Zewx, D4QQT) that bundle multiple scripts in one repo
 
 > :gear: **First-time setup — allow the script to run**
-> > Open PowerShell as an Administrator and run the following command before launching the tool:
+> Open PowerShell as an Administrator and run the following command before launching the tool:
 ```
-function test() {
   Set-ExecutionPolicy unrestricted
 }
 ```
-> > You only need to do this once. When prompted, press **Y** to confirm.
-> > Alternatively, You can run powershell with the unrestricted powershell Execution Policy if you don't want to/cant change it globally.
-> 
+>  You only need to do this once. When prompted, press **Y** to confirm.
+>  Alternatively, You can run powershell with the unrestricted powershell Execution Policy if you don't want to/cant change it globally.
 
 **How to use it**
 > 1. Run `QQTScriptManager.ps1` in PowerShell
