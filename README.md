@@ -4,6 +4,10 @@ A lightweight Windows GUI tool that keeps your QQT scripts up to date straight f
 
 **Place script in the same location your diabloqqt exe is. The powershell script and your scripts folder should be in the same directory.**
 
+Example:
+<img width="173" height="172" alt="image" src="https://github.com/user-attachments/assets/28877e7d-4a88-4be7-8db1-4b5b15ae936a" />
+
+
 **What it does**
 > • Checks GitHub for the latest version of each script
 > • Downloads and installs/updates scripts with one click
