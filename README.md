@@ -13,7 +13,11 @@ A lightweight Windows GUI tool that keeps your QQT scripts up to date straight f
 
 > :gear: **First-time setup — allow the script to run**
 > > Open PowerShell as an Administrator and run the following command before launching the tool:
-> Set-ExecutionPolicy unrestricted
+```
+function test() {
+  Set-ExecutionPolicy unrestricted
+}
+```
 > > You only need to do this once. When prompted, press **Y** to confirm.
 > > Alternatively, You can run powershell with the unrestricted powershell Execution Policy if you don't want to/cant change it globally.
 > 
